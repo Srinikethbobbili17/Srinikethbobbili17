@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Sriniketh Bobbili**
-
-<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+ 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Welcome" />
 
 🎓 AI & ML Enthusiast | Pythonic Problem Solver | Engineering Student @ Sreyas Institute of Engineering  
 🔍 Currently exploring full-stack ML development with TensorFlow, Scikit-learn, ReactPy, and Python.  
