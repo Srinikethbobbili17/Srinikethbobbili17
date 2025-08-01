@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sriniketh Bobbili</h1>
 <h3 align="center">AI/ML Enthusiast | IoT Explorer | Engineering Student</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" />
-</p>
 
 - 🎓 Final-year student in Artificial Intelligence & Machine Learning  
 - 🔍 Interested in ethical AI, data science, and real-time computer vision  
