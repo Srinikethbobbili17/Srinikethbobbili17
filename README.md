@@ -1,7 +1,5 @@
-# 👋 Hi, I’m **Sriniketh Bobbili**
+#  Hi, I’m **Sriniketh Bobbili**
  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Welcome" />
-
 🎓 AI & ML Enthusiast | Pythonic Problem Solver | Engineering Student @ Sreyas Institute of Engineering  
 🔍 Currently exploring full-stack ML development with TensorFlow, Scikit-learn, ReactPy, and Python.  
 🤝 Open to collaborations, internships, and AI/ML-related opportunities.
