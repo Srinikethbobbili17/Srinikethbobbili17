@@ -1,19 +1,29 @@
-# 👋 Hi, I'm Sriniketh Bobbili
+# 👋 Hi, I’m **Sriniketh Bobbili**
 
-I’m passionate about **data science**, **AI**, and building real-world solutions using powerful tools like Python, TensorFlow, and ReactPy. I'm on a journey to become a full-stack AI engineer with strong foundations in core programming and applied machine learning.
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+
+🎓 AI & ML Enthusiast | Pythonic Problem Solver | Engineering Student @ Sreyas Institute of Engineering  
+🔍 Currently exploring full-stack ML development with TensorFlow, Scikit-learn, ReactPy, and Python.  
+🤝 Open to collaborations, internships, and AI/ML-related opportunities.
+
+---
+
+## 💼 Experience & Education
+
+- 🎯 **Intern @ Kognitive IoT Solutions** – Applied ML/DS tools to real-world problems  
+- 🎓 **B.Tech – Computer Science**, Sreyas Institute of Engineering and Technology
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **[mycaptain-project](https://github.com/sriniketh-cp/mycaptain-project)** – Python-based Fibonacci series generation.
-- *(More projects to come: Stay tuned!)*
+- 🔹 **[mycaptain-project](https://github.com/sriniketh-cp/mycaptain-project)** – Python-based Fibonacci series assignment
+- *(More projects coming soon...)*
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 Data Science & AI Tech Stack
 
-<!-- Data Science & ML -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -22,27 +32,26 @@ I’m passionate about **data science**, **AI**, and building real-world solutio
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- Frontend / App -->
-![ReactPy](https://img.shields.io/badge/ReactPy-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-<!-- Additional Languages -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## 🌐 Web / Frontend
+
+![ReactPy](https://img.shields.io/badge/ReactPy-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 📊 Language Proficiency
+## 🖥️ Programming Language Proficiency
 
-| Language      | Proficiency |
-|---------------|-------------|
-| Python        | 🔥 80%      |
-| Java          | 🚀 60%      |
-| C             | 🚀 60%      |
-| JavaScript    | 🚀 60%      |
-| HTML/CSS      | ⚡ 50%      |
+| Language         | Proficiency       |
+|------------------|-------------------|
+| Python           | 🔥 80%            |
+| Java             | 🚀 60%            |
+| C                | 🚀 60%            |
+| JavaScript       | 🚀 60%            |
+| HTML / CSS       | ⚡ 50%            |
 
 ---
 
@@ -55,10 +64,19 @@ I’m passionate about **data science**, **AI**, and building real-world solutio
 
 ---
 
-## 📫 Connect with Me
+## 🌱 Current Goals
+
+- Learn and apply deep learning in real-world projects  
+- Develop AI-powered web apps with TensorFlow and ReactPy  
+- Build a strong open-source presence with clean, collaborative code
+
+---
+
+## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriniketh-bobbili-577a70248/)
 
 ---
 
-_Thanks for visiting my profile! I'm always open to collaboration, internships, and exciting projects in AI, data science, or backend development._
+_Thanks for visiting my profile! If you're into AI, data science, or backend dev, let's collaborate or connect._  
+⭐️ Don’t forget to star my repositories and follow for more projects!
